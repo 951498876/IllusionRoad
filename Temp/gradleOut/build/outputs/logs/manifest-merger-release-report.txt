@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-105
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:106-152
+	android:versionCode
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:2:153-193
+supports-screens
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-18:17
+	android:label
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-138
+	android:label
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:139-170
+	android:hardwareAccelerated
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:353-388
+	android:configChanges
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+meta-data#android.notch_support
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:12:7-78
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:12:18-54
+meta-data#unity.build-id
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:14:46-98
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-45
+meta-data#unity.splash-mode
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-50
+meta-data#notch.config
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-81
+	android:value
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:17:44-78
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-43
+uses-feature#0x00020000
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from F:\U3D\IllusionRoad\Temp\gradleOut\src\main\AndroidManifest.xml
